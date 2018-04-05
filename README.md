@@ -1,0 +1,1 @@
+# Growchain.net ERC20 Contract.
